@@ -31,12 +31,6 @@ Note: Use Python version: 3.10
 
 ### Centralised Database:
 <details>
-<summary>Already Marked</summary>
-<!-- <img src="https://github.com/xenon-19/Gesture_Controller/blob/9be82cfc75aa4c04fff0e12dd4de853f9d83a101/demo_media/left%20click.gif" alt="Left Click" width="711" height="400"><br> -->
- <figcaption>If student or the teacher comes in front of the camera again then the system shows Already Marked slide to signify the presence is already marked.</figcaption>
-</details>
-
-<details>
 <summary>SQL</summary>
 <!-- <img src="https://github.com/xenon-19/Gesture_Controller/blob/9be82cfc75aa4c04fff0e12dd4de853f9d83a101/demo_media/left%20click.gif" alt="Left Click" width="711" height="400"><br> -->
  <figcaption>It saves the data in the form of table with all these data and updates the value of Attendance status and time.</figcaption>
